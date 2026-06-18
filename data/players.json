@@ -1,0 +1,107 @@
+[
+  {
+    "id": "p17817532890160",
+    "name": "Unknown",
+    "role": "unknown",
+    "photo": "/uploads/default-u.png",
+    "bio": "Unknown player",
+    "joinDate": "2026-06-18",
+    "social": {
+      "twitter": "#",
+      "twitch": "#"
+    },
+    "stats": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "accuracy": 0.5,
+      "headshots": 0,
+      "roundsWon": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "p17817532890171",
+    "name": "Unknown",
+    "role": "unknown",
+    "photo": "/uploads/default-u.png",
+    "bio": "Unknown player",
+    "joinDate": "2026-06-18",
+    "social": {
+      "twitter": "#",
+      "twitch": "#"
+    },
+    "stats": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "accuracy": 0.5,
+      "headshots": 0,
+      "roundsWon": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "p17817532890182",
+    "name": "Unknown",
+    "role": "unknown",
+    "photo": "/uploads/default-u.png",
+    "bio": "Unknown player",
+    "joinDate": "2026-06-18",
+    "social": {
+      "twitter": "#",
+      "twitch": "#"
+    },
+    "stats": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "accuracy": 0.5,
+      "headshots": 0,
+      "roundsWon": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "p17817532890183",
+    "name": "Unknown",
+    "role": "unknown",
+    "photo": "/uploads/default-u.png",
+    "bio": "Unknown player",
+    "joinDate": "2026-06-18",
+    "social": {
+      "twitter": "#",
+      "twitch": "#"
+    },
+    "stats": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "accuracy": 0.5,
+      "headshots": 0,
+      "roundsWon": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "p17817532890224",
+    "name": "Unknown",
+    "role": "unknown",
+    "photo": "/uploads/default-u.png",
+    "bio": "Unknown player",
+    "joinDate": "2026-06-18",
+    "social": {
+      "twitter": "#",
+      "twitch": "#"
+    },
+    "stats": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "accuracy": 0.5,
+      "headshots": 0,
+      "roundsWon": 0,
+      "mvp": 0
+    }
+  }
+]
